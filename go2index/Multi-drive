@@ -55,14 +55,14 @@ var authConfig = {
           refresh_token: '1//0glZt3FjxU6nrCgYIARAAGBASNwF-L9IrXATXHSRyw9d0DuMagQpdae6bCbPOqRbWgk8vtRJvIipdNEnJh3Kw_2efz6mISoAjMGw'
         },
         {
-          id: "root",
-          name: "Google Drive 2",
+          id: "0ABr3uCMc3senUk9PVA",
+          name: "Auntisgy",
           user: "",
           pass: "",
           protect_file_link: false,
-          client_id: "",
-          client_secret: "",
-          refresh_token: ""
+          client_id: "545052556973-48gl1qcphsi8nmu3flcr0m26ipfip896.apps.googleusercontent.com",
+          client_secret: "LwCO_z_77LI-9e8AaMTvQgPO",
+          refresh_token: "1//0gDgLWg1RhEwOCgYIARAAGBASNwF-L9IrsExN6Hp4VmFByVNxGdSeazCffqLqFPK2VxU8krJ-8J4Td3XAl2mQka03mfhS58IMyE8"
         }
         // {
         //   id: "root",
